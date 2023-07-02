@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1040937580304",
+    "firebase_url": "https://am-smart-management-default-rtdb.firebaseio.com",
+    "project_id": "am-smart-management",
+    "storage_bucket": "am-smart-management.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1040937580304:android:6117e31deb06fbec5ad795",
+        "android_client_info": {
+          "package_name": "com.example.firebaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1040937580304-hampismm0d9np5vmdagbi0p2bnb34kbh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTD_Bul58c7aBVdVbxdoBc61T8bGghlnQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1040937580304-hampismm0d9np5vmdagbi0p2bnb34kbh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
